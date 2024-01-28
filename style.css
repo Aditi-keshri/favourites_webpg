@@ -1,0 +1,25 @@
+body{
+    background-color:yellowgreen;
+    font-family: 'poppins'sans-serif;
+    font-size:16px ;
+
+
+}
+h1,h2,ol,p{
+    color: rgb(245, 12, 51);
+}
+/* p{ */
+    /* color:rgb(245, 12, 51); */
+/* } */
+/* h2{ */
+    /* color: darkgreen; */
+/* } */
+a[href]{
+    color: darkcyan;
+}
+a,a:hover,a:active,a:focus{
+    text-decoration: none;
+}
+/* ol{ */
+    /* color: rgb(245, 12, 51); */
+/* } */
